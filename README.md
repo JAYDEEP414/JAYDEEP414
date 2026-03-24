@@ -1,6 +1,6 @@
 # Hi, I'm Jaydeep 👋
 
-🎓 B.Sc Computer Science Student (SPPU)  
+🎓 B.Sc Computer Science (SPPU)  
 📊 Aspiring Data Analyst | Learning Data Science  
 
 ---
