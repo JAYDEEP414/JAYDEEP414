@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jaydeep 👋
 
-<!--
-**JAYDEEP414/JAYDEEP414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science Student (SPPU)  
+📊 Aspiring Data Analyst | Learning Data Science  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about data analysis and problem solving  
+- Currently learning Data Science  
+- Interested in Python, SQL, and Data Visualization  
+
+---
+
+## 🛠️ Skills
+- Python  
+- SQL  
+- Data Analysis  
+- Power BI (basic)  
+- Excel  
+
+---
+
+## 📂 Projects
+- Social Network Recommendation System  
+- Instagram User Analysis System  
+
+---
+
+## 📫 Contact Me
+📧 Email: jaydeepsutar001@gmail.com  
